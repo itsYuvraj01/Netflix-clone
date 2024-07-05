@@ -1,10 +1,10 @@
 # Netflix Clone MERN
-
-[![Demo](https://netflix-askhan.netlify.app/)](https://netflix-askhan.netlify.app/)
+Hello! Welcome to my Netflix clone
+Thanks for checking out my work!
 
 ## Overview
 
-This project is a Netflix clone developed using the MERN stack (MongoDB, Express.js, React, Node.js). It includes features such as user authentication, a main page showcasing available content, and team information.
+This project is a Netflix clone developed using the MERN stack (MongoDB, Express.js, React, Node.js). It includes features such as user authentication, a main page showcasing available content.
 
 ## How to Run
 
@@ -21,25 +21,24 @@ This project is a Netflix clone developed using the MERN stack (MongoDB, Express
 
 ## Screenshots
 
-### Login Page
-![Login Page](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/login.png)
-
 ### Signup Page
-![Signup Page](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/signup.png)
-
-### Our Team
-![Our Team](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/team.png)
-
-### Main Page
-![Main Page](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/mainpage.png)
-
-### Main
-![Main](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/main.png)
+![signup](https://github.com/itsYuvraj01/Netflix-clone/assets/174704002/3404e8cf-5baa-4564-818b-ef4aafe2f57d)
 
 
+### Login Page
+![login](https://github.com/itsYuvraj01/Netflix-clone/assets/174704002/88c6c5cf-197c-4044-be33-7a46f7eb5abb)
 
-## Contributors
+### After Loggin in user is met with a featured movie or series selected randomly from the database.
 
-- [Muhammad Awais Khan]
+![random movie](https://github.com/itsYuvraj01/Netflix-clone/assets/174704002/0adf63f2-12b1-4885-8cc2-e6012ba87ba7)
+
+### And other series and movies lists are displayed in a simple slider.
+![slider](https://github.com/itsYuvraj01/Netflix-clone/assets/174704002/a783f524-fb84-41b8-8bff-b77758a372d8)
+![slider2](https://github.com/itsYuvraj01/Netflix-clone/assets/174704002/9fe5d17a-38dc-4370-a3fa-e6c1dd642956)
+
+
+### Further clicking the thumbnail opens the movie/series in fullscreen mode with a Home button on top left corner.
+![playing](https://github.com/itsYuvraj01/Netflix-clone/assets/174704002/f5b114a1-6f36-477a-88ae-733f09f53244)
+
 
 Feel free to contribute to the project and make it even better!
