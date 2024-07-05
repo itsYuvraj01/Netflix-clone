@@ -1,5 +1,6 @@
 # Netflix Clone MERN
 Hello! Welcome to my Netflix clone
+
 Thanks for checking out my work!
 
 ## Overview
