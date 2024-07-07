@@ -5,7 +5,7 @@ import { firebaseAuth } from "../utils/firebase-config";
 import BackgroundImage from "../components/BackgroundImage";
 import Header from "../components/Header";
 import Footer from "../Footer/Footer";
-import Developers from "../components/Developers";
+
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -81,7 +81,7 @@ export default function Signup() {
           </div>
         </div>
       </div>
-      <Developers />
+     
       <Footer />
     </div>
     </>
